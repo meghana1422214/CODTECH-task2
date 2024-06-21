@@ -1,8 +1,8 @@
-Name: Meghana Jilakara
-Company: CODTECH IT SOLUTIONS
-ID: CT08DS2088
-Domain: WEB DEVELOPMENT
-Duration: June to July 2024
+Name: Meghana Jilakara <br>
+Company: CODTECH IT SOLUTIONS <br>
+ID: CT08DS2088    <br>
+Domain: WEB DEVELOPMENT  <br>
+Duration: June to July 2024 <br>
 Mentor: SRAVANI GOUNI
 
 ## Overview of the Project
